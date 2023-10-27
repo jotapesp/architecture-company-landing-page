@@ -7,6 +7,6 @@ Landing Page project for a generic Architecture Company
 
 ## Como usar / How to use
 (PT-BR) Acesse https://desafioum-lp.netlify.app/ para ver a landing page funcionando online. <br>
-Link da planilha com os dados: https://shorturl.at/gmGZ0
-(EN) Go to https://desafioum-lp.netlify.app/ to test it online.
+Link da planilha com os dados: https://shorturl.at/gmGZ0 <br>
+(EN) Go to https://desafioum-lp.netlify.app/ to test it online. <br>
 Link for the sheet containing the gathered data: https://shorturl.at/gmGZ0
