@@ -6,7 +6,7 @@ Landing Page project for a generic Architecture Company
 (EN) This is a Landing Page project for getting data from prospective clients.
 
 ## Como usar / How to use
-(PT-BR) Acesse https://jotapesp-landing-page.netlify.app/ para ver a landing page funcionando online. <br>
+(PT-BR) Acesse desafioum-lp.netlify.app para ver a landing page funcionando online. <br>
 Link da planilha com os dados: https://shorturl.at/gmGZ0
-(EN) Go to https://jotapesp-landing-page.netlify.app/ to test it online.
-Link for the sheet with the gathered data: https://shorturl.at/gmGZ0
+(EN) Go to desafioum-lp.netlify.app to test it online.
+Link for the sheet containing the gathered data: https://shorturl.at/gmGZ0
