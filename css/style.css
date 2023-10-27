@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#titulo-superior{
+    color: #FFFFFF;
+    background-color: #303030;
+    /* width: 1440px; */
+    height: 475px;
+}
+
+#texto-titulo{
+    padding-top: 206px;
+    padding-left: 62px;
+    font-size: 50px;
+}
+
+#info-titulo{
+    font-size: 18px;
+    padding-top: 20px;
+    padding-left: 62px;
+}
+
+.img-dados{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#dados-institucionais{
+    /* height: 229px; */
+    padding: 96px 110px 67px 120px;
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#sobre{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    text-align: justify;
+    margin-top: 80px;
+    margin-right: 70px;
+    margin-left: 77px;
+    margin-bottom: 90px;
+}
+
+#titulo-sobre{
+    margin-top: 220px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    font-size: 30px;
+}
+
+#texto-sobre{
+    line-height: 32px;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+#formulario{
+    background-color: #303030;
+    color: #FFF;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+#titulo-form{
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+input{
+    width: 330px;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    margin: 15px;
+    padding-left: 10px;
+}
+
+button{
+    width: 150px;
+    height: 40px;
+    color: #FFF;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #C07212;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 45px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #d78828;
+    transform: translateY(-10px);
+    box-shadow: 0px 15px 20px #7b490b;
+    transition-duration: 0.8s;
+}
